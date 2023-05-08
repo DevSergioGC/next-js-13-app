@@ -1,4 +1,5 @@
 import { Navigation } from "./components/Navigation.jsx";
+import {} from "../styles/globals.css"
 
 export const metadata = {
   title: "First app with next js 13",
