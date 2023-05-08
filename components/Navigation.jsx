@@ -10,6 +10,10 @@ const links = [
     label: "About",
     url: "/about",
   },
+  {
+    label: "Posts",
+    url: "/posts",
+  },
 ];
 
 export function Navigation() {
